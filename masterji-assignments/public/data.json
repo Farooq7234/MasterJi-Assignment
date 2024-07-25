@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1526498460520-4c246339dccb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "React Development Course",
+      "price": 49.99,
+      "type": "course"
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1628258334105-2a0b3d6efee1?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Advanced JavaScript Course",
+      "price": 59.99,
+      "type": "course"
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "React Mock Test",
+      "price": 19.99,
+      "type": "mock test"
+    },
+    {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDExfHxmdWxsJTIwc3RhY2t8ZW58MHx8fHwxNjkwMjQzOTQ1&ixlib=rb-1.2.1&q=80&w=400",
+      "title": "JavaScript Mock Test",
+      "price": 24.99,
+      "type": "mock test"
+    }
+  ]
+  
