@@ -30,7 +30,7 @@ function OtpForm() {
       toast.loading("Redirecting to chaicode.com")
       setTimeout(() => {
          window.location.href = 'https://chaicode.com'
-      }, 2000);
+      }, 3000);
 
     } else {
         toast.error("Invalid OTP, try Again")
@@ -54,7 +54,7 @@ function OtpForm() {
           <div className='flex gap-5'>
             {otp.map((value, index) => (
               <input
-                className={`bg-[#DBE2EF] text-black w-[90px] h-[100px] text-center rounded-xl ${otpError ? "border-2 border-red-400" : null}` }
+                className={`bg-[#DBE2EF] text-black text-2xl font-bold w-[90px] h-[100px] text-center rounded-xl ${otpError ? "border-2 border-red-400" : null}` }
                 key={index}
                 value={value}
                 maxLength='1'
