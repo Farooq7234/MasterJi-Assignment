@@ -1,6 +1,6 @@
 # My Project
 
-This is an example project.
+MASTER JI ASSIGNMENTS OVERVIEW
 
 ## HOME
 
