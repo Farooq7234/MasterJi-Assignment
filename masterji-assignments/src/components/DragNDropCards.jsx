@@ -128,7 +128,8 @@ function DragNDropCards() {
     };
 
     return (
-        <div className="bg-[#D2E3C8] min-h-[100vh] flex justify-center items-center">
+        <div className="bg-[#D2E3C8] min-h-[100vh] flex flex-col gap-5 justify-center items-center">
+            <h2 className='text-8xl font-bold text-[#4F6F52] '>Chai aur Code</h2>
             <div className="bg-[#F7F7F7] flex flex-col gap-5 p-6 w-full sm:w-2/3 min-h-[600px] shadow-lg rounded-lg">
                 <div className="flex flex-col gap-4">
                     <h2 className="text-[#313131] text-2xl sm:text-4xl font-bold">Manage Bundle</h2>
